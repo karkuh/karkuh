@@ -41,9 +41,7 @@
 
 ### :fire: My Stats :
 
-<div>
-<img src = "http://github-readme-streak-stats.herokuapp.com?user=karkuh&theme=radical" align = "center"/>
-</div>
+[![GitHub Streak ](http://github-readme-streak-stats.herokuapp.com?user=karkuh&theme=radical) ](https://git.io/streak-stats) 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karkuh&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=karkuh&theme=radical)](https://git.io/streak-stats)
