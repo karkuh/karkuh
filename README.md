@@ -5,10 +5,10 @@
 ---
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://t.me/vlad_karkushevskiy">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.instagram.com/vlad_karkushevskiy/">
     <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
