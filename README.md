@@ -5,13 +5,13 @@
 ---
 
 <div id="badges" align="center">
-  <a href="https://t.me/vlad_karkushevskiy" target="_blank">
+  <a href="https://t.me/vlad_karkushevskiy" >
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://www.instagram.com/vlad_karkushevskiy/" target="_blank">
+  <a href="https://www.instagram.com/vlad_karkushevskiy/" >
     <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-    <a href="https://www.linkedin.com/in/vladyslav-karkushevskiy-543191251/" target="_blank">
+    <a href="https://www.linkedin.com/in/vladyslav-karkushevskiy-543191251/" >
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
 </div>
