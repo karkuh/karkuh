@@ -11,6 +11,9 @@
   <a href="https://www.instagram.com/vlad_karkushevskiy/">
     <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+    <a href="https://www.linkedin.com/in/vladyslav-karkushevskiy-543191251/">
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
+  </a>
 </div>
 
 
@@ -22,7 +25,7 @@
 
 ### :man_technologist: About Me :
 - 👋 Hi, I’m @karkuh
-- 🙄I am from a small town in Ukraine.
+- 🙄I am from a small city in Ukraine.
 - 👀 I’m a student at the National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute".
 122 Computer Science
 - 😎I'm a  programmer
